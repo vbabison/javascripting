@@ -1,2 +1,2 @@
-let example = 123456789;
+let example = 'some string';
 console.log(example);
